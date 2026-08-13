@@ -1,0 +1,256 @@
+[2026-06-10 09:32:25] 🔐 Login ke V-Class...
+[2026-06-10 09:32:25] ❌ Login gagal: HTTPSConnectionPool(host='v-class.gunadarma.ac.id', port=443): Max retries exceeded with url: /login/index.php (Caused by NameResolutionError("HTTPSConnection(host='v-class.gunadarma.ac.id', port=443): Failed to resolve 'v-class.gunadarma.ac.id' ([Errno -2] Name or service not known)"))
+[2026-06-10 09:45:25] 🔐 Login ke V-Class...
+[2026-06-10 09:45:33] ✅ Login berhasil
+[2026-06-10 09:45:33] 📚 Mengambil mata kuliah ID 108486 ...
+[2026-06-10 09:45:34]   ➤ ATA 2025/2026 | 3KB01 | Jaringan Komputer Lanjut | VIVIEN NOVA FITHRIANA
+[2026-06-10 09:45:34]      • [Materi] Announcements Forum → Deadline: -
+[2026-06-10 09:45:38]      • [Materi] M1 File → Deadline: -
+[2026-06-10 09:45:42]      • [Materi] M2 File → Deadline: -
+[2026-06-10 09:45:47]      • [Materi] M3 File → Deadline: -
+[2026-06-10 09:45:52]      • [Materi] M4 File → Deadline: -
+[2026-06-10 09:45:56]      • [Materi] M5 File → Deadline: -
+[2026-06-10 09:46:00]      • [Materi] M6 File → Deadline: -
+[2026-06-10 09:46:05]      • [Materi] M7 File → Deadline: -
+[2026-06-10 09:46:09]      • [Materi] VC-1 : Traffic dan Algoritma Kendali Kemacetan File → Deadline: -
+[2026-06-10 09:46:14]      • [Materi] VC-1 : Traffic dan Algoritma Kendali Kemacetan File → Deadline: -
+[2026-06-10 09:46:19]      • [Materi] Forum VC-1 : Traffic dan Algoritma Kendali Kemacetan → Deadline: -
+[2026-06-10 09:46:24]      • [Quiz] Latihan Soal VC-1 : Traffic dan Algoritma Kendali Kemacetan → Deadline: Tidak diketahui
+[2026-06-10 09:46:27]      • [Materi] VC-2 : Traffic dan Algoritma Kendali Kemacetan - Bagian 2 File → Deadline: -
+[2026-06-10 09:46:32]      • [Materi] Forum VC-2 : Traffic dan Algoritma Kendali Kemacetan - Bagian 2 → Deadline: -
+[2026-06-10 09:46:40]      • [Quiz] Latihan Soal VC-2 : Traffic dan Algoritma Kendali Kemacetan - Bagian 2 → Deadline: Tidak diketahui
+[2026-06-10 09:46:45]      • [Materi] VC-3 : Lapisan Transport File → Deadline: -
+[2026-06-10 09:46:49]      • [Materi] Forum VC-3 : Lapisan Transport → Deadline: -
+[2026-06-10 09:46:54]      • [Quiz] Latihan Soal VC-3 : Lapisan Transport → Deadline: Wednesday, 15 July 2026, 11:59 PM
+[2026-06-10 09:46:58] 📚 Mengambil mata kuliah ID 108172 ...
+[2026-06-10 09:46:59]   ➤ ATA 2025/2026 | 3KB01 | Internet of Things (IoT) | PURNAWARMAN MUSA
+[2026-06-10 09:46:59]      • [Materi] Announcements Forum → Deadline: -
+[2026-06-10 09:47:03]      • [Materi] M6 File → Deadline: -
+[2026-06-10 09:47:07]      • [Quiz] Soal (Tugas Individu) → Deadline: Tidak diketahui
+[2026-06-10 09:47:12]      • [Quiz] Soal (Tugas Individu) → Deadline: Tidak diketahui
+[2026-06-10 09:47:16] 📚 Mengambil mata kuliah ID 109563 ...
+[2026-06-10 09:47:16]   ➤ ATA 2025/2026 | 3KB01 | Sistem Tertanam (Embedded) * | RIDHA ISKANDAR
+[2026-06-10 09:47:16]      • [Materi] Selamat Datang di V-Class Sistem Tertanam (Embedded) Forum → Deadline: -
+[2026-06-10 09:47:21]      • [Assignment] File 1 → Deadline: Sunday, 26 April 2026, 12:00 AM
+[2026-06-10 09:47:26] 📚 Mengambil mata kuliah ID 109970 ...
+[2026-06-10 09:47:27]   ➤ ATA 2025/2026 | 2EB10 | Bahasa Indonesia | MELANIAWATI
+[2026-06-10 09:47:27] 📚 Mengambil mata kuliah ID 107919 ...
+[2026-06-10 09:47:27]   ➤ ATA 2025/2026 | 3KB01 | Sistem Cerdas Lanjut | NUR SULTAN SALAHUDDIN
+[2026-06-10 09:47:27]      • [Materi] Announcements Forum → Deadline: -
+[2026-06-10 09:47:32]      • [Assignment] Sistem Kesehatan Cerdas → Deadline: Thursday, 21 May 2026, 12:00 AM
+[2026-06-10 09:47:36]      • [Quiz] Sistem Kesehatan Cerdas → Deadline: Tidak diketahui
+[2026-06-10 09:47:40] 📚 Mengambil mata kuliah ID 107291 ...
+[2026-06-10 09:47:40]   ➤ ATA 2025/2026 | 3KB01 | Pengantarmukaan Perif.Komputer * | FARID THALIB
+[2026-06-10 09:47:40]      • [Materi] Announcements Forum → Deadline: -
+[2026-06-10 09:47:44] 📚 Mengambil mata kuliah ID 104438 ...
+[2026-06-10 09:47:51]   ➤ ATA 2025/2026 | 3-FIKTI | Terapan Teori Graf | TEAM TEACHING
+[2026-06-10 09:47:51]      • [Materi] PEMBERITAHUAN PELAKSANAAN TEAM TEACHING TERAPAN TEORI GRAF Forum → Deadline: -
+[2026-06-10 09:47:56]      • [Materi] M1: Pendahuluan Teori Graf File → Deadline: -
+[2026-06-10 09:47:59]      • [Materi] Video Literasi M1: Pendahuluan Teori Graf URL → Deadline: -
+[2026-06-10 09:48:14]      • [Quiz] Kuis M1 [kelas PAGI] → Deadline: Tidak diketahui
+[2026-06-10 09:48:18]      • [Quiz] Kuis M1 [kelas MALAM] → Deadline: Tidak diketahui
+[2026-06-10 09:48:22]      • [Materi] M2: Graf Tidak Berarah dan Graf Berbobot File → Deadline: -
+[2026-06-10 09:48:26]      • [Materi] Video Literasi M2 : Graf Tidak Berarah dan Graf Berbobot URL → Deadline: -
+[2026-06-10 09:48:33]      • [Quiz] Kuis M2 [KELAS PAGI] : Graf Tidak Berarah dan Graf Berbobot → Deadline: Tidak diketahui
+[2026-06-10 09:48:36]      • [Quiz] Kuis M2 [KELAS MALAM] : Graf Tidak Berarah dan Graf Berbobot → Deadline: Tidak diketahui
+[2026-06-10 09:48:40]      • [Materi] M4 : Aplikasi Teori Graf di Teknik Elektro File → Deadline: -
+[2026-06-10 09:48:44]      • [Materi] Video Literasi M4 : Aplikasi Teori Graf di Teknik Elektro URL → Deadline: -
+[2026-06-10 09:48:48]      • [Quiz] Kuis M4 [KELAS PAGI]: Aplikasi Teori Graf di Teknik Elektro → Deadline: Tidak diketahui
+[2026-06-10 09:48:53]      • [Quiz] Kuis M4 [KELAS MALAM]: Aplikasi Teori Graf di Teknik Elektro → Deadline: Tidak diketahui
+[2026-06-10 09:48:58]      • [Materi] M5 : Knowledge Graph dan Database Graph File → Deadline: -
+[2026-06-10 09:49:02]      • [Materi] Video Literasi  M5 : Knowledge Graph dan Database Graph URL → Deadline: -
+[2026-06-10 09:49:08]      • [Quiz] Kuis M5 [KELAS PAGI] : nowledge Graph dan Database Graph → Deadline: Tidak diketahui
+[2026-06-10 09:49:13]      • [Quiz] Kuis M5 [KELAS MALAM] : Knowledge Graph dan Database Graph → Deadline: Tidak diketahui
+[2026-06-10 09:49:17]      • [Materi] M6 : Graf Berarah dan Implementasinya File → Deadline: -
+[2026-06-10 09:49:22]      • [Materi] Video Literasi M6 : Graf Berarah dan Implementasinya URL → Deadline: -
+[2026-06-10 09:49:26]      • [Quiz] Kuis M6 [KELAS PAGI] : Graf Berarah dan Implementasinya → Deadline: Tidak diketahui
+[2026-06-10 09:49:31]      • [Quiz] Kuis M6 [KELAS MALAM] : Graf Berarah dan Implementasinya → Deadline: Tidak diketahui
+[2026-06-10 09:49:35]      • [Materi] M8 : Penerapan Teori Graf di Bidang Teknik Sipil File → Deadline: -
+[2026-06-10 09:49:39]      • [Materi] Video Literasi M8 : Penerapan Teori Graf di Bidang Teknik Sipil URL → Deadline: -
+[2026-06-10 09:49:45]      • [Quiz] Kuis M8 [KELAS PAGI] : Penerapan Teori Graf di Bidang Teknik Sipil → Deadline: Tidak diketahui
+[2026-06-10 09:49:49]      • [Quiz] Kuis M8 [KELAS MALAM] : Penerapan Teori Graf di Bidang Teknik Sipil → Deadline: Tidak diketahui
+[2026-06-10 09:49:54]      • [Materi] M10 : Penerapan Teori Graf  di Bidang Teknik Industri File → Deadline: -
+[2026-06-10 09:49:59]      • [Materi] Video Literasi M10 : Penerapan Teori Graf  di Bidang Teknik Industri URL → Deadline: -
+[2026-06-10 09:50:03]      • [Quiz] Kuis M10 [kelas pagi] : Penerapan Teori Graf  di Bidang Teknik Industri → Deadline: Tidak diketahui
+[2026-06-10 09:50:07]      • [Quiz] Kuis M10 [kelas malam]: Penerapan Teori Graf  di Bidang Teknik Industri → Deadline: Tidak diketahui
+[2026-06-10 09:50:11] 📚 Mengambil mata kuliah ID 104413 ...
+[2026-06-10 09:50:11]   ➤ ATA 2025/2026 | 3-FIKTI | Praktikum Terapan Teori Graf
+[2026-06-10 09:50:11]      • [Materi] Panduan Praktikum  Forum → Deadline: -
+[2026-06-10 09:50:15]      • [Materi] Panduan Google Collaboratory URL → Deadline: -
+[2026-06-10 09:50:20]      • [Materi] Panduan Instalasi Anaconda URL → Deadline: -
+[2026-06-10 09:50:25]      • [Quiz] Pre-Test (M1) → Deadline: Tidak diketahui
+[2026-06-10 09:50:30]      • [Materi] 1.1  Pengantar: Teori Graf URL → Deadline: -
+[2026-06-10 09:50:34]      • [Materi] 1.2  Sesi Hands-on Praktikum URL → Deadline: -
+[2026-06-10 09:50:38]      • [Materi] 1.3 Tutorial Menambahkan File pada Mesin DGX URL → Deadline: -
+[2026-06-10 09:50:42]      • [Quiz] Post-Test (M1) → Deadline: Tidak diketahui
+[2026-06-10 09:50:46]      • [Assignment] Pengumpulan Tugas (M1) → Deadline: Saturday, 7 March 2026, 11:59 PM
+[2026-06-10 09:50:52]      • [Quiz] Pre-Test (M2) → Deadline: Tidak diketahui
+[2026-06-10 09:50:56]      • [Materi] 2.1  Pengantar: Berbagai Pemecahan Masalah Menggunakan Teori Graf Page → Deadline: -
+[2026-06-10 09:51:00]      • [Quiz] Post-Test (M2) → Deadline: Tidak diketahui
+[2026-06-10 09:51:05]      • [Assignment] Pengumpulan Tugas (M2) → Deadline: Saturday, 14 March 2026, 11:59 PM
+[2026-06-10 09:51:09]      • [Quiz] Pre-Test (M4) → Deadline: Tidak diketahui
+[2026-06-10 09:51:13]      • [Materi] 4.1  Pengantar: Breadth First Search URL → Deadline: -
+[2026-06-10 09:51:17]      • [Materi] Sesi Praktikum File → Deadline: -
+[2026-06-10 09:51:21]      • [Materi] Video Tutorial: Mendownload File IPYNB di Virtual Class URL → Deadline: -
+[2026-06-10 09:51:25]      • [Quiz] Post-Test (M4) → Deadline: Tidak diketahui
+[2026-06-10 09:51:30]      • [Assignment] Laporan Akhir (M4) → Deadline: Saturday, 11 April 2026, 11:59 PM
+[2026-06-10 09:51:34]      • [Quiz] Pre-Test (M5) → Deadline: Tidak diketahui
+[2026-06-10 09:51:39]      • [Materi] Sesi Praktikum URL → Deadline: -
+[2026-06-10 09:51:44]      • [Quiz] Post-Test (M5) → Deadline: Tidak diketahui
+[2026-06-10 09:51:49]      • [Assignment] Laporan Akhir (M5) → Deadline: Saturday, 18 April 2026, 11:59 PM
+[2026-06-10 09:51:53]      • [Quiz] Pre-Test (M6) → Deadline: Tidak diketahui
+[2026-06-10 09:51:57]      • [Materi] 6.1  Pendahuluan: Algoritma Dasar Tree URL → Deadline: -
+[2026-06-10 09:52:01]      • [Materi] Sesi Praktikum File → Deadline: -
+[2026-06-10 09:52:10]      • [Quiz] Post-Test (M6) → Deadline: Tidak diketahui
+[2026-06-10 09:52:16]      • [Assignment] Laporan Akhir (M6) → Deadline: Saturday, 25 April 2026, 11:59 PM
+[2026-06-10 09:52:20]      • [Quiz] Pre-Test (M8) → Deadline: Tidak diketahui
+[2026-06-10 09:52:25]      • [Materi] 8.1  Pendahuluan: Implementasi Graph URL → Deadline: -
+[2026-06-10 09:52:29]      • [Materi] Link File Praktikum I - family.pl → Deadline: -
+[2026-06-10 09:52:33]      • [Materi] Link File Praktikum II - 8-puzzles.ipynb → Deadline: -
+[2026-06-10 09:52:36]      • [Materi] Video Tutorial: Mendownload File IPYNB di Virtual Class URL → Deadline: -
+[2026-06-10 09:52:46]      • [Quiz] Post-Test (M8) → Deadline: Tidak diketahui
+[2026-06-10 09:52:51]      • [Assignment] Laporan Akhir (M8) → Deadline: Saturday, 9 May 2026, 11:59 PM
+[2026-06-10 09:52:56]      • [Quiz] Pre-Test (M9) → Deadline: Tidak diketahui
+[2026-06-10 09:53:00]      • [Materi] Sesi Hands-on Praktikum URL → Deadline: -
+[2026-06-10 09:53:05]      • [Quiz] Post-Test (M9) → Deadline: Tidak diketahui
+[2026-06-10 09:53:10]      • [Assignment] Pengumpulan Tugas (M9) → Deadline: Saturday, 16 May 2026, 11:59 PM
+[2026-06-10 09:53:14]      • [Quiz] Pre-Test (M3) → Deadline: Tidak diketahui
+[2026-06-10 09:53:19]      • [Materi] Sesi Praktikum URL → Deadline: -
+[2026-06-10 09:53:23]      • [Materi] Video Tutorial: Menambahkan File pada Mesin DGX URL → Deadline: -
+[2026-06-10 09:53:28]      • [Quiz] Post-Test (M3) → Deadline: Tidak diketahui
+[2026-06-10 09:53:34]      • [Assignment] Pengumpulan Tugas (M3) → Deadline: Saturday, 23 May 2026, 11:59 PM
+[2026-06-10 09:53:38]      • [Quiz] Pre-Test (M7) → Deadline: Tidak diketahui
+[2026-06-10 09:53:42]      • [Materi] Link File Praktikum I - 3-Tekrek-Find-Center.ipynb → Deadline: -
+[2026-06-10 09:53:46]      • [Materi] Link File Praktikum II - 3-Tekrek-Sortest-Path.ipynb → Deadline: -
+[2026-06-10 09:53:50]      • [Materi] Video Tutorial: Mendownload File IPYNB di Virtual Class URL → Deadline: -
+[2026-06-10 09:53:55]      • [Quiz] Post-Test (M7) → Deadline: Tidak diketahui
+[2026-06-10 09:54:00]      • [Assignment] Laporan Akhir (M7) → Deadline: Saturday, 23 May 2026, 11:59 PM
+[2026-06-10 09:54:05] 📦 Total tugas ditemukan: 107
+[2026-06-10 09:54:05] 💾 Disimpan ke python/node/tugas.json
+[2026-06-10 18:00:05] 🔐 Login ke V-Class...
+[2026-06-10 18:00:06] ✅ Login berhasil
+[2026-06-10 18:00:06] 📚 Mengambil mata kuliah ID 108486 ...
+[2026-06-10 18:00:06]   ➤ ATA 2025/2026 | 3KB01 | Jaringan Komputer Lanjut | VIVIEN NOVA FITHRIANA
+[2026-06-10 18:00:06]      • [Materi] Announcements Forum → Deadline: -
+[2026-06-10 18:00:10]      • [Materi] M1 File → Deadline: -
+[2026-06-10 18:00:15]      • [Materi] M2 File → Deadline: -
+[2026-06-10 18:00:19]      • [Materi] M3 File → Deadline: -
+[2026-06-10 18:00:23]      • [Materi] M4 File → Deadline: -
+[2026-06-10 18:00:27]      • [Materi] M5 File → Deadline: -
+[2026-06-10 18:00:32]      • [Materi] M6 File → Deadline: -
+[2026-06-10 18:00:35]      • [Materi] M7 File → Deadline: -
+[2026-06-10 18:00:39]      • [Materi] VC-1 : Traffic dan Algoritma Kendali Kemacetan File → Deadline: -
+[2026-06-10 18:00:43]      • [Materi] VC-1 : Traffic dan Algoritma Kendali Kemacetan File → Deadline: -
+[2026-06-10 18:00:48]      • [Materi] Forum VC-1 : Traffic dan Algoritma Kendali Kemacetan → Deadline: -
+[2026-06-10 18:00:52]      • [Quiz] Latihan Soal VC-1 : Traffic dan Algoritma Kendali Kemacetan → Deadline: Tidak diketahui
+[2026-06-10 18:00:56]      • [Materi] VC-2 : Traffic dan Algoritma Kendali Kemacetan - Bagian 2 File → Deadline: -
+[2026-06-10 18:01:00]      • [Materi] Forum VC-2 : Traffic dan Algoritma Kendali Kemacetan - Bagian 2 → Deadline: -
+[2026-06-10 18:01:05]      • [Quiz] Latihan Soal VC-2 : Traffic dan Algoritma Kendali Kemacetan - Bagian 2 → Deadline: Tidak diketahui
+[2026-06-10 18:01:09]      • [Materi] VC-3 : Lapisan Transport File → Deadline: -
+[2026-06-10 18:01:14]      • [Materi] Forum VC-3 : Lapisan Transport → Deadline: -
+[2026-06-10 18:01:18]      • [Quiz] Latihan Soal VC-3 : Lapisan Transport → Deadline: Wednesday, 15 July 2026, 11:59 PM
+[2026-06-10 18:01:22] 📚 Mengambil mata kuliah ID 108172 ...
+[2026-06-10 18:01:22]   ➤ ATA 2025/2026 | 3KB01 | Internet of Things (IoT) | PURNAWARMAN MUSA
+[2026-06-10 18:01:22]      • [Materi] Announcements Forum → Deadline: -
+[2026-06-10 18:01:26]      • [Materi] M6 File → Deadline: -
+[2026-06-10 18:01:31]      • [Quiz] Soal (Tugas Individu) → Deadline: Tidak diketahui
+[2026-06-10 18:01:36]      • [Quiz] Soal (Tugas Individu) → Deadline: Tidak diketahui
+[2026-06-10 18:01:40] 📚 Mengambil mata kuliah ID 109563 ...
+[2026-06-10 18:01:40]   ➤ ATA 2025/2026 | 3KB01 | Sistem Tertanam (Embedded) * | RIDHA ISKANDAR
+[2026-06-10 18:01:40]      • [Materi] Selamat Datang di V-Class Sistem Tertanam (Embedded) Forum → Deadline: -
+[2026-06-10 18:01:45]      • [Assignment] File 1 → Deadline: Sunday, 26 April 2026, 12:00 AM
+[2026-06-10 18:01:49] 📚 Mengambil mata kuliah ID 109970 ...
+[2026-06-10 18:01:49]   ➤ ATA 2025/2026 | 2EB10 | Bahasa Indonesia | MELANIAWATI
+[2026-06-10 18:01:49] 📚 Mengambil mata kuliah ID 107919 ...
+[2026-06-10 18:01:49]   ➤ ATA 2025/2026 | 3KB01 | Sistem Cerdas Lanjut | NUR SULTAN SALAHUDDIN
+[2026-06-10 18:01:49]      • [Materi] Announcements Forum → Deadline: -
+[2026-06-10 18:01:54]      • [Assignment] Sistem Kesehatan Cerdas → Deadline: Thursday, 21 May 2026, 12:00 AM
+[2026-06-10 18:01:59]      • [Quiz] Sistem Kesehatan Cerdas → Deadline: Tidak diketahui
+[2026-06-10 18:02:04] 📚 Mengambil mata kuliah ID 107291 ...
+[2026-06-10 18:02:04]   ➤ ATA 2025/2026 | 3KB01 | Pengantarmukaan Perif.Komputer * | FARID THALIB
+[2026-06-10 18:02:04]      • [Materi] Announcements Forum → Deadline: -
+[2026-06-10 18:02:08] 📚 Mengambil mata kuliah ID 104438 ...
+[2026-06-10 18:02:08]   ➤ ATA 2025/2026 | 3-FIKTI | Terapan Teori Graf | TEAM TEACHING
+[2026-06-10 18:02:08]      • [Materi] PEMBERITAHUAN PELAKSANAAN TEAM TEACHING TERAPAN TEORI GRAF Forum → Deadline: -
+[2026-06-10 18:02:13]      • [Materi] M1: Pendahuluan Teori Graf File → Deadline: -
+[2026-06-10 18:02:17]      • [Materi] Video Literasi M1: Pendahuluan Teori Graf URL → Deadline: -
+[2026-06-10 18:02:22]      • [Quiz] Kuis M1 [kelas PAGI] → Deadline: Tidak diketahui
+[2026-06-10 18:02:27]      • [Quiz] Kuis M1 [kelas MALAM] → Deadline: Tidak diketahui
+[2026-06-10 18:02:31]      • [Materi] M2: Graf Tidak Berarah dan Graf Berbobot File → Deadline: -
+[2026-06-10 18:02:35]      • [Materi] Video Literasi M2 : Graf Tidak Berarah dan Graf Berbobot URL → Deadline: -
+[2026-06-10 18:02:39]      • [Quiz] Kuis M2 [KELAS PAGI] : Graf Tidak Berarah dan Graf Berbobot → Deadline: Tidak diketahui
+[2026-06-10 18:02:44]      • [Quiz] Kuis M2 [KELAS MALAM] : Graf Tidak Berarah dan Graf Berbobot → Deadline: Tidak diketahui
+[2026-06-10 18:02:48]      • [Materi] M4 : Aplikasi Teori Graf di Teknik Elektro File → Deadline: -
+[2026-06-10 18:02:53]      • [Materi] Video Literasi M4 : Aplikasi Teori Graf di Teknik Elektro URL → Deadline: -
+[2026-06-10 18:02:58]      • [Quiz] Kuis M4 [KELAS PAGI]: Aplikasi Teori Graf di Teknik Elektro → Deadline: Tidak diketahui
+[2026-06-10 18:03:01]      • [Quiz] Kuis M4 [KELAS MALAM]: Aplikasi Teori Graf di Teknik Elektro → Deadline: Tidak diketahui
+[2026-06-10 18:03:06]      • [Materi] M5 : Knowledge Graph dan Database Graph File → Deadline: -
+[2026-06-10 18:03:10]      • [Materi] Video Literasi  M5 : Knowledge Graph dan Database Graph URL → Deadline: -
+[2026-06-10 18:03:15]      • [Quiz] Kuis M5 [KELAS PAGI] : nowledge Graph dan Database Graph → Deadline: Tidak diketahui
+[2026-06-10 18:03:19]      • [Quiz] Kuis M5 [KELAS MALAM] : Knowledge Graph dan Database Graph → Deadline: Tidak diketahui
+[2026-06-10 18:03:24]      • [Materi] M6 : Graf Berarah dan Implementasinya File → Deadline: -
+[2026-06-10 18:03:27]      • [Materi] Video Literasi M6 : Graf Berarah dan Implementasinya URL → Deadline: -
+[2026-06-10 18:03:32]      • [Quiz] Kuis M6 [KELAS PAGI] : Graf Berarah dan Implementasinya → Deadline: Tidak diketahui
+[2026-06-10 18:03:36]      • [Quiz] Kuis M6 [KELAS MALAM] : Graf Berarah dan Implementasinya → Deadline: Tidak diketahui
+[2026-06-10 18:03:40]      • [Materi] M8 : Penerapan Teori Graf di Bidang Teknik Sipil File → Deadline: -
+[2026-06-10 18:03:45]      • [Materi] Video Literasi M8 : Penerapan Teori Graf di Bidang Teknik Sipil URL → Deadline: -
+[2026-06-10 18:03:49]      • [Quiz] Kuis M8 [KELAS PAGI] : Penerapan Teori Graf di Bidang Teknik Sipil → Deadline: Tidak diketahui
+[2026-06-10 18:03:54]      • [Quiz] Kuis M8 [KELAS MALAM] : Penerapan Teori Graf di Bidang Teknik Sipil → Deadline: Tidak diketahui
+[2026-06-10 18:03:58]      • [Materi] M10 : Penerapan Teori Graf  di Bidang Teknik Industri File → Deadline: -
+[2026-06-10 18:04:02]      • [Materi] Video Literasi M10 : Penerapan Teori Graf  di Bidang Teknik Industri URL → Deadline: -
+[2026-06-10 18:04:06]      • [Quiz] Kuis M10 [kelas pagi] : Penerapan Teori Graf  di Bidang Teknik Industri → Deadline: Tidak diketahui
+[2026-06-10 18:04:10]      • [Quiz] Kuis M10 [kelas malam]: Penerapan Teori Graf  di Bidang Teknik Industri → Deadline: Tidak diketahui
+[2026-06-10 18:04:14] 📚 Mengambil mata kuliah ID 104413 ...
+[2026-06-10 18:04:15]   ➤ ATA 2025/2026 | 3-FIKTI | Praktikum Terapan Teori Graf
+[2026-06-10 18:04:15]      • [Materi] Panduan Praktikum  Forum → Deadline: -
+[2026-06-10 18:04:18]      • [Materi] Panduan Google Collaboratory URL → Deadline: -
+[2026-06-10 18:04:23]      • [Materi] Panduan Instalasi Anaconda URL → Deadline: -
+[2026-06-10 18:04:27]      • [Quiz] Pre-Test (M1) → Deadline: Tidak diketahui
+[2026-06-10 18:04:31]      • [Materi] 1.1  Pengantar: Teori Graf URL → Deadline: -
+[2026-06-10 18:04:35]      • [Materi] 1.2  Sesi Hands-on Praktikum URL → Deadline: -
+[2026-06-10 18:04:39]      • [Materi] 1.3 Tutorial Menambahkan File pada Mesin DGX URL → Deadline: -
+[2026-06-10 18:04:44]      • [Quiz] Post-Test (M1) → Deadline: Tidak diketahui
+[2026-06-10 18:04:47]      • [Assignment] Pengumpulan Tugas (M1) → Deadline: Saturday, 7 March 2026, 11:59 PM
+[2026-06-10 18:04:52]      • [Quiz] Pre-Test (M2) → Deadline: Tidak diketahui
+[2026-06-10 18:04:56]      • [Materi] 2.1  Pengantar: Berbagai Pemecahan Masalah Menggunakan Teori Graf Page → Deadline: -
+[2026-06-10 18:05:01]      • [Quiz] Post-Test (M2) → Deadline: Tidak diketahui
+[2026-06-10 18:05:06]      • [Assignment] Pengumpulan Tugas (M2) → Deadline: Saturday, 14 March 2026, 11:59 PM
+[2026-06-10 18:05:09]      • [Quiz] Pre-Test (M4) → Deadline: Tidak diketahui
+[2026-06-10 18:05:13]      • [Materi] 4.1  Pengantar: Breadth First Search URL → Deadline: -
+[2026-06-10 18:05:18]      • [Materi] Sesi Praktikum File → Deadline: -
+[2026-06-10 18:05:22]      • [Materi] Video Tutorial: Mendownload File IPYNB di Virtual Class URL → Deadline: -
+[2026-06-10 18:05:26]      • [Quiz] Post-Test (M4) → Deadline: Tidak diketahui
+[2026-06-10 18:05:30]      • [Assignment] Laporan Akhir (M4) → Deadline: Saturday, 11 April 2026, 11:59 PM
+[2026-06-10 18:05:34]      • [Quiz] Pre-Test (M5) → Deadline: Tidak diketahui
+[2026-06-10 18:05:38]      • [Materi] Sesi Praktikum URL → Deadline: -
+[2026-06-10 18:05:41]      • [Quiz] Post-Test (M5) → Deadline: Tidak diketahui
+[2026-06-10 18:05:47]      • [Assignment] Laporan Akhir (M5) → Deadline: Saturday, 18 April 2026, 11:59 PM
+[2026-06-10 18:05:51]      • [Quiz] Pre-Test (M6) → Deadline: Tidak diketahui
+[2026-06-10 18:05:56]      • [Materi] 6.1  Pendahuluan: Algoritma Dasar Tree URL → Deadline: -
+[2026-06-10 18:06:00]      • [Materi] Sesi Praktikum File → Deadline: -
+[2026-06-10 18:06:05]      • [Quiz] Post-Test (M6) → Deadline: Tidak diketahui
+[2026-06-10 18:06:09]      • [Assignment] Laporan Akhir (M6) → Deadline: Saturday, 25 April 2026, 11:59 PM
+[2026-06-10 18:06:14]      • [Quiz] Pre-Test (M8) → Deadline: Tidak diketahui
+[2026-06-10 18:06:18]      • [Materi] 8.1  Pendahuluan: Implementasi Graph URL → Deadline: -
+[2026-06-10 18:06:22]      • [Materi] Link File Praktikum I - family.pl → Deadline: -
+[2026-06-10 18:06:27]      • [Materi] Link File Praktikum II - 8-puzzles.ipynb → Deadline: -
+[2026-06-10 18:06:31]      • [Materi] Video Tutorial: Mendownload File IPYNB di Virtual Class URL → Deadline: -
+[2026-06-10 18:06:35]      • [Quiz] Post-Test (M8) → Deadline: Tidak diketahui
+[2026-06-10 18:06:39]      • [Assignment] Laporan Akhir (M8) → Deadline: Saturday, 9 May 2026, 11:59 PM
+[2026-06-10 18:06:43]      • [Quiz] Pre-Test (M9) → Deadline: Tidak diketahui
+[2026-06-10 18:06:48]      • [Materi] Sesi Hands-on Praktikum URL → Deadline: -
+[2026-06-10 18:06:52]      • [Quiz] Post-Test (M9) → Deadline: Tidak diketahui
+[2026-06-10 18:06:55]      • [Assignment] Pengumpulan Tugas (M9) → Deadline: Saturday, 16 May 2026, 11:59 PM
+[2026-06-10 18:07:00]      • [Quiz] Pre-Test (M3) → Deadline: Tidak diketahui
+[2026-06-10 18:07:04]      • [Materi] Sesi Praktikum URL → Deadline: -
+[2026-06-10 18:07:09]      • [Materi] Video Tutorial: Menambahkan File pada Mesin DGX URL → Deadline: -
+[2026-06-10 18:07:13]      • [Quiz] Post-Test (M3) → Deadline: Tidak diketahui
+[2026-06-10 18:07:17]      • [Assignment] Pengumpulan Tugas (M3) → Deadline: Saturday, 23 May 2026, 11:59 PM
+[2026-06-10 18:07:22]      • [Quiz] Pre-Test (M7) → Deadline: Tidak diketahui
+[2026-06-10 18:07:26]      • [Materi] Link File Praktikum I - 3-Tekrek-Find-Center.ipynb → Deadline: -
+[2026-06-10 18:07:30]      • [Materi] Link File Praktikum II - 3-Tekrek-Sortest-Path.ipynb → Deadline: -
+[2026-06-10 18:07:34]      • [Materi] Video Tutorial: Mendownload File IPYNB di Virtual Class URL → Deadline: -
+[2026-06-10 18:07:38]      • [Quiz] Post-Test (M7) → Deadline: Tidak diketahui
+[2026-06-10 18:07:43]      • [Assignment] Laporan Akhir (M7) → Deadline: Saturday, 23 May 2026, 11:59 PM
+[2026-06-10 18:07:47] 📦 Total tugas ditemukan: 107
+[2026-06-10 18:07:47] 💾 Disimpan ke python/node/tugas.json

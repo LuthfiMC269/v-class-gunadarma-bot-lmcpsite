@@ -1,0 +1,27 @@
+2026/07/30-19:02:46.294 ea4 Reusing MANIFEST /home/gizz/v-class-gunadarma-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/07/30-19:02:46.300 ea4 Recovering log #51
+2026/07/30-19:02:46.300 ea4 Reusing old log /home/gizz/v-class-gunadarma-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/000051.log 
+2026/07/30-23:33:04.141 ea6 Level-0 table #55: started
+2026/07/30-23:33:04.142 ea6 Level-0 table #55: 13754 bytes OK
+2026/07/30-23:33:04.144 ea6 Delete type=0 #51
+2026/07/31-20:58:41.457 ea6 Level-0 table #57: started
+2026/07/31-20:58:41.459 ea6 Level-0 table #57: 13432 bytes OK
+2026/07/31-20:58:41.460 ea6 Delete type=0 #54
+2026/08/01-09:02:32.172 ea6 Level-0 table #59: started
+2026/08/01-09:02:32.173 ea6 Level-0 table #59: 14401 bytes OK
+2026/08/01-09:02:32.175 ea6 Delete type=0 #56
+2026/08/01-09:02:32.176 ea6 Compacting 4@0 + 1@1 files
+2026/08/01-09:02:32.177 ea6 Generated table #60@0: 137 keys, 8944 bytes
+2026/08/01-09:02:32.177 ea6 Compacted 4@0 + 1@1 files => 8944 bytes
+2026/08/01-09:02:32.178 ea6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/01-09:02:32.179 ea6 Delete type=2 #59
+2026/08/01-09:02:32.179 ea6 Delete type=2 #52
+2026/08/01-09:02:32.179 ea6 Delete type=2 #49
+2026/08/01-09:02:32.179 ea6 Delete type=2 #55
+2026/08/01-09:02:32.179 ea6 Delete type=2 #57
+2026/08/01-16:15:11.172 ea6 Level-0 table #62: started
+2026/08/01-16:15:11.174 ea6 Level-0 table #62: 15512 bytes OK
+2026/08/01-16:15:11.176 ea6 Delete type=0 #58
+2026/08/02-16:15:44.949 ea4 Level-0 table #64: started
+2026/08/02-16:15:44.950 ea4 Level-0 table #64: 13617 bytes OK
+2026/08/02-16:15:44.952 ea4 Delete type=0 #61
